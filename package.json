@@ -1,17 +1,17 @@
 {
-  "name": "vite-plugin-copyfiles",
+  "name": "vite-plugin-copyfile",
   "type": "module",
   "version": "0.0.1",
   "packageManager": "pnpm@7.12.0",
   "description": "",
   "author": "chris-zhu <https://github.com/chris-zhu>",
   "license": "MIT",
-  "homepage": "https://github.com/chris-zhu/vite-plugin-copyfiles#readme",
+  "homepage": "https://github.com/chris-zhu/vite-plugin-copyfile#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chris-zhu/vite-plugin-copyfiles.git"
+    "url": "git+https://github.com/chris-zhu/vite-plugin-copyfile.git"
   },
-  "bugs": "https://github.com/chris-zhu/vite-plugin-copyfiles/issues",
+  "bugs": "https://github.com/chris-zhu/vite-plugin-copyfile/issues",
   "keywords": [],
   "sideEffects": false,
   "exports": {
